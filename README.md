@@ -1,2 +1,2 @@
-# PCD_gr-fico_absorb-ncia
+# PCD_grqfico_absorbancia
 Plota gráficos de absorbância, calcula área, acha picos e calcula gaussiana.
